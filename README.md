@@ -1,5 +1,5 @@
 # melody.toys.github.io
-Melody Toys Web Site
+Melody Toys Commercial Web Site
 
-landing page for https://www.melody.toys ...
+landing page for https://www.melody.toys/ ...
 
